@@ -1,8 +1,7 @@
 import numpy as np
 
 # Definição dos dados de treinamento
-treino_inputs = np.array
-([
+treino_inputs = np.array([
     [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0],  # Número 1
     [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0],  # Número 1
     [0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0],  # Número 1
